@@ -1,1 +1,1 @@
-web: gunicorn ebonneelovescode.wsgi --log-file -
+web: gunicorn ebonneelovescodesite.wsgi --log-file -
